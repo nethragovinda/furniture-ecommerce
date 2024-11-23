@@ -14,6 +14,9 @@ const port = process.env.PORT || 5000;
 // Database pool setup
 const pool = new Pool({
     connectionString: process.env.DATABASE_URL,
+    ssl: {
+        rejectUnauthorized: false, // Allows self-signed certificates, required for many hosted DBs
+    },
 });
 
 // Middleware setup
