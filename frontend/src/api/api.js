@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000", // Update to your backend URL if deployed
+  baseURL: "https://furniture-ecommerce-backend-o30s.onrender.com", // Update to your backend URL if deployed
 });
 
 // Add the token to requests if available
