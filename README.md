@@ -1,5 +1,7 @@
 Furniture E-commerce Application
+
 Overview
+
 This project is a single-page e-commerce application for a furniture store, featuring essential functionalities such as user authentication, product listing, and cart management. It is designed to provide a seamless user experience with a clean and professional interface.
 ________________________________________
 Features
