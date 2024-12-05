@@ -118,6 +118,8 @@ o	Check the database connection string in the .env file.
 ________________________________________
 Contact
 For any questions or additional details, please feel free to contact me:
+
 •	Name: Nethra Govinda
+
 •	Email: nethragovinda@gmail.com
 
